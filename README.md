@@ -10,4 +10,4 @@ Summarization is a natural language processing (NLP) task that requires, given a
    4. BERT
    5. GPT-2
    6. XLNet
-   7. BERT
+   7. BART
