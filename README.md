@@ -6,7 +6,8 @@ Summarization is a natural language processing (NLP) task that requires, given a
 ## *Text Summarization Techniques*
    1. Gensim
    2. Sumy
-   3. BERT
-   4. GPT-2
-   5. XLNet
-   6. BERT
+   3. Transformer T5 model
+   4. BERT
+   5. GPT-2
+   6. XLNet
+   7. BERT
