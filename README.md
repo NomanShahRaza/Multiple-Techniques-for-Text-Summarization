@@ -12,7 +12,6 @@ From 1958's Luhn algorithm to BART, PEGASUS, and Longformer, run them all on you
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B)
 ![Techniques](https://img.shields.io/badge/techniques-18-brightgreen)
-[![GitHub stars](https://img.shields.io/github/stars/NomanShahRaza/Multiple-Techniques-for-Text-Summarization?style=social)](https://github.com/NomanShahRaza/Multiple-Techniques-for-Text-Summarization/stargazers)
 
 [Quick start](#quick-start) •
 [Techniques](#techniques) •
