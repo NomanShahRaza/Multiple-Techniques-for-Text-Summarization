@@ -1,0 +1,16 @@
+# Classic extractive techniques (frequency, textrank, lexrank, lsa, luhn, kl, sumbasic)
+nltk>=3.8
+numpy
+scikit-learn
+networkx
+sumy
+
+# Evaluation
+rouge-score
+
+# Neural techniques (mmr, bert, gpt2, xlnet, t5, t5-large, flan-t5, bart, distilbart, pegasus, led)
+torch
+transformers
+sentencepiece
+protobuf
+sentence-transformers
